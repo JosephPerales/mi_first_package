@@ -13,7 +13,7 @@
   ],
   "author": "Joseph Perales <joseph321perales@gmail.com>",
   "license": "MIT",
-  "git repository": "https://github.com/JosephPerales/mi_first_package.git",
+  "git-repository": "https://github.com/JosephPerales/mi_first_package.git",
   "bin": {
     "random-msg": "./bin/global.js"
   },
