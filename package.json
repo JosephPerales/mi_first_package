@@ -13,12 +13,19 @@
   ],
   "author": "Joseph Perales <joseph321perales@gmail.com>",
   "license": "MIT",
-  "git-repository": "https://github.com/JosephPerales/mi_first_package.git",
   "bin": {
     "random-msg": "./bin/global.js"
   },
   "preferGlobal": true,
   "dependencies": {
     "user": "^0.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JosephPerales/mi_first_package.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JosephPerales/mi_first_package.git"
+  },
+  "homepage": "https://github.com/JosephPerales/mi_first_package.git"
 }
